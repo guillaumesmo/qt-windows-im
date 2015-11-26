@@ -1,0 +1,1 @@
+Qt 5.2.1 windows platform plugin modified to use the QInputContextFactory plugin loader. This allows to use custom input methods (for example QtFreeVirtualKeyboard). 
